@@ -6,12 +6,19 @@ li {
     color: blue;
 }
 
+p {
+    margin: 0;
+}
+
+.personal {
+    width: 200px;
+}
+
 main {
     width: 900px;
     display: block;
     text-align: left;
     padding-left: 3rem;
-    box-sizing: border-box;
     word-wrap: break-word;
 }
 
