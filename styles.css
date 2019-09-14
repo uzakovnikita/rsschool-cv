@@ -1,0 +1,59 @@
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.email {
+    color: blue;
+}
+
+main {
+    width: 900px;
+    display: block;
+    text-align: left;
+    padding-left: 3rem;
+    box-sizing: border-box;
+    word-wrap: break-word;
+}
+
+code {
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+}
+
+.pl-k {
+    color: #d73a49;
+}
+
+.pl-c1,
+.pl-s .pl-v {
+    color: #005cc5;
+}
+
+.pl-pds,
+.pl-s,
+.pl-s .pl-pse .pl-s1,
+.pl-sr,
+.pl-sr .pl-cce,
+.pl-sr .pl-sra,
+.pl-sr .pl-sre {
+    color: #032f62;
+}
+
+.pl-pds,
+.pl-s,
+.pl-s .pl-pse .pl-s1,
+.pl-sr,
+.pl-sr .pl-cce,
+.pl-sr .pl-sra,
+.pl-sr .pl-sre {
+    color: #032f62;
+}
+
+.pl-s .pl-s1,
+.pl-smi {
+    color: #24292e;
+}
+
+.pl-e,
+.pl-en {
+    color: #6f42c1;
+}
